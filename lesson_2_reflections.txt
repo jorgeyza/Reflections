@@ -1,13 +1,14 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-Everything that was inside the chosen directory gets stored in a new .git hidden directory. It's neccessary so I can use  the functionalities of git by keeping track of version when by starting making commits.
+Everything that was inside the chosen working directory gets stored in a new .git hidden directory. It's neccessary so I can use  the functionalities of git by keeping track of version when I starting making commits.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-The working directory is where all the files that can be commited are stores. The staging area is kind of a mid zone where files of the working directory are waiting to be commited (all the selected onee at the same time).
+The working directory is where all the files that can be commited are stored. The staging area is kind of a mid zone where files of the working directory are waiting to be commited and sent to the repository(all the selected ones at the same time).
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+
+After I've made a change to a file in the working directory I can use the command 'git add <filename>' to 'move' it to the staging area. This way, I can control the files I move in using a logical change criteria. After moving the file to the staging area, I can use the 'get diff' command(with no arguments) to check the differences between the working directory and staging area files. Finally I'll commit the changes using the 'git commit' command and check again the differences between the stage area and the repository files using 'git diff --staged'.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
