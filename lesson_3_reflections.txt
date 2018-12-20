@@ -9,7 +9,7 @@ Because there might be commits that are ready or that maybe I didn't intend to m
 
 Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 
-    Fill in your answer here
+Forks are copies that are made inside the GitHub workspace. They are referenced to the origanl owner, but you can modify then as you want. Clones are copies made from GitHub to your local machine or from one part of your local machine to another part. Branches are like another path that a main line of coding or making of a project have taken. They can be later merged into the master branch.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
