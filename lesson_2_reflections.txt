@@ -16,6 +16,8 @@ For example, if I want to create an easier version of a game I'm coding, I could
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams are graphical, so it makes it easier to know the structure of all the branches.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
