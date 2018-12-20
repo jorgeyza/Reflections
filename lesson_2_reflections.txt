@@ -10,8 +10,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 After I've made a change to a file in the working directory I can use the command 'git add <filename>' to 'move' it to the staging area. This way, I can control the files I move in using a logical change criteria. After moving the file to the staging area, I can use the 'get diff' command(with no arguments) to check the differences between the working directory and staging area files. Finally I'll commit the changes using the 'git commit' command and check again the differences between the stage area and the repository files using 'git diff --staged'.
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+For example, if I want to create an easier version of a game I'm coding, I could create a new branch. Another example is when I'm adding some experimental new features that I want to test, but still have the main version intact. Branches are helpful because they help to keep track of different versions besides the main line I would normally code.
 
 How do the diagrams help you visualize the branch structure?
 
