@@ -21,4 +21,4 @@ I would have to use alternatives. My first options probably would be Dropbox, Go
 
 When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+When I make changes to a different branch, is to not affect my master, so I have more freedom to do different stuff with the files I'm working on. The benefit of working directly on the master is that I can skip many steps to have the pulls and pushes done.
