@@ -17,7 +17,7 @@ The benefit is that I can know act accordingly with that information. I'll be su
 
 How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
-    Fill in your answer here
+I would have to use alternatives. My first options probably would be Dropbox, Google Drive, Google Docs or shared documents. It would be easier to work that way if the work is not that complicated and minimal collaboration is needed. It would be harder for big projects where everyone has to collaborate a lot.
 
 When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
