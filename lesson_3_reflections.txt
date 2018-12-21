@@ -13,7 +13,7 @@ Forks are copies that are made inside the GitHub workspace. They are referenced 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
-    Fill in your answer here
+The benefit is that I can know act accordingly with that information. I'll be sure that I'm going through the right path or if I just missed something.
 
 How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
